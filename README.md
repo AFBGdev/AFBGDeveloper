@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayaadhav10" alt="ajayaadhav10" /></a> </p>
 
-- 🔭 I’m currently working on **Aniten**
+- 🔭 I’m currently working on **JOB-POS**
 
 - 🌱 I’m currently learning **Testing and Game developmen**
 
